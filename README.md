@@ -56,10 +56,8 @@ VALUES
      VALUES
      ("Van Dijk facial injury 'no big problem' says Klopp",
      "The centre-back went off injured against the Austrian champions but the Reds manager is not concerned about his influential defender
-      Liverpool boss Jurgen Klopp insists the injury sustained by Virgil van Dijk in Tuesday's friendly with Red Bull Salzburg is nothing to be concerned about. 
-      
-      The Netherlands international was forced off in the 55th minute of the Reds' 2-2 draw in Austria after suffering a cut to his head. 
-      
+      Liverpool boss Jurgen Klopp insists the injury sustained by Virgil van Dijk in Tuesday's friendly with Red Bull Salzburg is nothing to be concerned about.   
+      The Netherlands international was forced off in the 55th minute of the Reds' 2-2 draw in Austria after suffering a cut to his head.    
       Klopp, though, confirmed after the game that the 29-year-old is not expected to suffer any lasting effects.");
 
 <br />
