@@ -91,7 +91,7 @@ CREATE TABLE `accesstokens` (
   PRIMARY KEY (`id`),
   KEY `userid` (`userid`),
   CONSTRAINT `accesstokens_ibfk_1` FOREIGN KEY (`userid`) REFERENCES `users` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
 
 
 <br />
